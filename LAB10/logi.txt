@@ -1,0 +1,20 @@
+id_filmu=6, id_uzytkownika=26, ocena=1, data_glosowania='Fri Jan 10 20:12:28 CET 2025
+
+id_filmu=2, id_uzytkownika=22, ocena=1, data_glosowania='Fri Jan 10 20:12:28 CET 2025
+
+id_filmu=7, id_uzytkownika=27, ocena=1, data_glosowania='Fri Jan 10 20:12:28 CET 2025
+
+id_filmu=0, id_uzytkownika=20, ocena=1, data_glosowania='Fri Jan 10 20:12:28 CET 2025
+
+id_filmu=8, id_uzytkownika=28, ocena=2, data_glosowania='Fri Jan 10 20:12:28 CET 2025
+
+id_filmu=3, id_uzytkownika=23, ocena=2, data_glosowania='Fri Jan 10 20:12:28 CET 2025
+
+id_filmu=5, id_uzytkownika=25, ocena=1, data_glosowania='Fri Jan 10 20:12:28 CET 2025
+
+id_filmu=4, id_uzytkownika=24, ocena=1, data_glosowania='Fri Jan 10 20:12:28 CET 2025
+
+id_filmu=9, id_uzytkownika=29, ocena=3, data_glosowania='Fri Jan 10 20:12:28 CET 2025
+
+id_filmu=1, id_uzytkownika=21, ocena=4, data_glosowania='Fri Jan 10 20:12:28 CET 2025
+
